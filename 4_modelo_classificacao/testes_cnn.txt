@@ -1,0 +1,6 @@
+dropout 0.6	epochs: 8	acc treino: 0.7413	acc val: 0.7399
+dropout 0.6	epochs: 15	acc treino: 0.7919	acc val: 0.7653
+dropout 0.6	epochs: 15	acc treino: 0.7793	acc val: 0.7445
+dropout 0.6	epochs: 16	acc treino: 0.8104	acc val: 0.7660
+dropout 0.6	epochs: 30	acc treino: 0.8478	acc val: 0.7745 
+dropout 0.6	epochs: 40	acc treino: 0.8892	acc val: 0.7748

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1_Trata_Json", "1_Trata_Json.pyproj", "{2BC28536-AE26-4D58-8C73-BCA01F2CF292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC28536-AE26-4D58-8C73-BCA01F2CF292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC28536-AE26-4D58-8C73-BCA01F2CF292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620046DB-70E1-490B-A621-A72AC9C8A8ED}
+	EndGlobalSection
+EndGlobal
